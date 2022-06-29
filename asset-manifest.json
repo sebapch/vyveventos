@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/vyveventos/static/css/main.1a5db2f2.css",
+    "main.js": "/vyveventos/static/js/main.e4480aea.js",
+    "static/js/787.e3eedbf7.chunk.js": "/vyveventos/static/js/787.e3eedbf7.chunk.js",
+    "static/media/orgEventos.png": "/vyveventos/static/media/orgEventos.ce6511bc65045748584a.png",
+    "static/media/logo.jpeg": "/vyveventos/static/media/logo.909aa5cfab5ef15ba791.jpeg",
+    "static/media/evento.jpg": "/vyveventos/static/media/evento.696de26c88eba05474a9.jpg",
+    "index.html": "/vyveventos/index.html",
+    "main.1a5db2f2.css.map": "/vyveventos/static/css/main.1a5db2f2.css.map",
+    "main.e4480aea.js.map": "/vyveventos/static/js/main.e4480aea.js.map",
+    "787.e3eedbf7.chunk.js.map": "/vyveventos/static/js/787.e3eedbf7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a5db2f2.css",
+    "static/js/main.e4480aea.js"
+  ]
+}
