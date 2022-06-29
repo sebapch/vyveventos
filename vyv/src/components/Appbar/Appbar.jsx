@@ -126,6 +126,38 @@ const Appbar = () => {
                 Organización de Eventos
               </Button>
             </Link>
+            <Link to="organizacioneventos">
+              <Button
+                onClick={handleCloseNavMenu}
+                sx={{ my: 2, color: "white", display: "block" }}
+              >
+                Armado de Presupuesto
+              </Button>
+            </Link>
+            <Link to="organizacioneventos">
+              <Button
+                onClick={handleCloseNavMenu}
+                sx={{ my: 2, color: "white", display: "block" }}
+              >
+                Asistente de Novia
+              </Button>
+            </Link>
+            <Link to="organizacioneventos">
+              <Button
+                onClick={handleCloseNavMenu}
+                sx={{ my: 2, color: "white", display: "block" }}
+              >
+                Ambientación de Eventos
+              </Button>
+            </Link>
+            <Link to="organizacioneventos">
+              <Button
+                onClick={handleCloseNavMenu}
+                sx={{ my: 2, color: "white", display: "block" }}
+              >
+                Ceremonial en la mesa
+              </Button>
+            </Link>
           </Box>
         </Toolbar>
       </Container>
